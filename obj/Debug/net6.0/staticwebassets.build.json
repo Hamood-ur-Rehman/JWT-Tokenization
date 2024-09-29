@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bo6v2yBafgeeC7f3fKV6KPN7RP2ZaTMDRn9Sdoq0mEM=",
+  "Source": "Jwt_Authentication",
+  "BasePath": "_content/Jwt_Authentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
